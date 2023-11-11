@@ -1,0 +1,24 @@
+image{
+    align-items: -40;
+    margin-top: -40px;
+   list-style-image: inside;
+}
+img{
+    height:200px;
+    width: 200px;
+}
+.image-title{
+ font-weight:normal;
+}
+#red{
+    color:red;
+}
+#Green{
+    color:green;
+}
+#pink{
+    color:violet;
+}
+#Blue{
+    color:blue;
+}
